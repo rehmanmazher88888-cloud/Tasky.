@@ -1,2 +1,2 @@
-# Tasky.
+# Tasky
 Daily task voice assistant 
